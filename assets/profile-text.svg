@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+  <style>
+    text { font-family: 'Google Sans', 'Segoe UI', Arial, sans-serif; }
+    .name { font-size: 52px; font-weight: 700; fill: #FFFFFF; }
+    .user { font-size: 18px; font-weight: 400; fill: #8B949E; }
+    .bio  { font-size: 28px; font-weight: 400; fill: #8B949E; }
+  </style>
+
+  <!-- x=20 lines everything up on the same left edge -->
+  <text x="20" y="55"  class="name">Shourya Mishra</text>
+  <text x="20" y="95"  class="user">ShouryaWired</text>
+  <text x="20" y="135" class="bio">I love Computers / Machines</text>
+</svg>
