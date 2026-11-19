@@ -2,4 +2,4 @@
   <img src="assets/banner.svg" alt="ShouryaWired" />
 </p>
 
-<p align="center">Shourya Mishra</p>
+<p align="center">~--Shourya Mishra--~</p>
