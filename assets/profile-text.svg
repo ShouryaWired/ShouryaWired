@@ -65,7 +65,7 @@
   <!-- textLength pins each line to an exact width, so the layout stays the same whatever font the viewer has -->
   <text x="16" y="32" class="name" textLength="235" lengthAdjust="spacingAndGlyphs" clip-path="url(#k1)">Shourya <tspan class="accent">Mishra</tspan></text>
   <text x="16" y="45" class="user" textLength="112" lengthAdjust="spacing" clip-path="url(#k2)">@ShouryaWired</text>
-  <text x="16" y="70" class="bio" textLength="250" lengthAdjust="spacing" clip-path="url(#k3)">I like Computers & Machines.</text>
+  <text x="16" y="70" class="bio" textLength="250" lengthAdjust="spacing" clip-path="url(#k3)">I like Computers &amp; Machines.</text>
 
   <!-- blinking cursor that rides the typing edge of the bio line, then keeps blinking at the end -->
   <rect class="cur" x="16" y="57" width="7" height="15" rx="1" fill="#E07B4C"/>
